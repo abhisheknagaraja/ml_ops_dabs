@@ -1,11 +1,11 @@
 dev_model:
-  catalog: shovakeemian_dev
-  schema: ml_ops_dabs
-  model_name: iris_model
+  catalog: main
+  schema: llm_demo
+  model_name: iris_model_dev
   model_alias: champion
-endpoint_name: shovakeemian_ml_ops_dabs
+endpoint_name: abhishek_ml_ops_dabs
 prod_model:
-  catalog: shovakeemian_prod
-  schema: ml_ops_dabs
-  model_name: iris_model
+  catalog: main
+  schema: llm_demo
+  model_name: iris_model_prod
   model_alias: champion
